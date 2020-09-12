@@ -1,4 +1,3 @@
-# upload 177
 import datetime
 from distutils.dir_util import copy_tree
 import filecmp
