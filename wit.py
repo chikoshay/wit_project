@@ -316,7 +316,6 @@ def status(cmd_line_list):
                           dcmp_original.diff_files)
                     print('Untracked files:             :',
                           dcmp_original.right_only)
-                   #write_ref_file(closest_wit, current_commit_id)
 
 
 def write_ref_file(closest_wit, current_commit_id):
